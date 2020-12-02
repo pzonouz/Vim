@@ -17,7 +17,7 @@ TODO:
 ##### npm install -g prettier
 ##### npm install -g typescript:w
 ##### https://blog.theodo.com/2019/08/empower-your-dev-environment-with-eslint-prettier-and-editorconfig-with-no-conflicts/
-
+##### https://github.com/ryanoasis/nerd-fonts/archive/v2.1.0.tar.gz
 ### Methods:
     zc — close the fold (where your cursor is positioned)
     zM —close all folds on current buffer
