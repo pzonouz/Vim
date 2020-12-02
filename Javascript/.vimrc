@@ -5,7 +5,13 @@
 :set expandtab " When expandtab is set, hitting Tab in insert mode will produce the appropriate number of spaces.
 :set softtabstop=4 " Set softtabstop to control how many columns vim uses when you hit Tab in insert mode. If softtabstop is less than tabstop and expandtab is not set, vim will use a combination of tabs and spaces to make up the desired spacing. If softtabstop equals tabstop and expandtab is not set, vim will always use tabs. When expandtab is set, vim will always use the appropriate number of spaces.
 :set shiftwidth=4 " Set shiftwidth to control how many columns text is indented with the reindent operations (<< and >>) and automatic C-style indentation. 
-:setlocal foldmethod=indent " Set folding method
+":setlocal foldmethod=indent " Set folding method
+"FOLDING--------------------------------------------------------------------
+set foldmethod=syntax "syntax highlighting items specify folds
+set foldcolumn=1 "defines 1 col at window left, to indicate folding
+let javaScript_fold=1 "activate folding by JS syntax
+set foldlevelstart=99 "start file with all folds opened
+----------------------------------------------------------------------------
 :set t_Co=256 " makes Vim use 256 colors
 :set nowrap " Don't Wrap lines!
 ":colorscheme molokai "Set colorScheme
