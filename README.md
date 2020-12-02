@@ -11,8 +11,8 @@ TODO:
 8. [ ] GO
 9. [ ] CMake
 
-##Javascript prerequirities##
-###npm install -g eslint###
-###npm install -g prettier###
-###npm install -g typescript###
+##Javascript prerequirities
+###npm install -g eslint
+###npm install -g prettier
+###npm install -g typescript
 
