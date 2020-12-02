@@ -14,7 +14,6 @@ TODO:
 ## Javascript prerequirities
 
 ##### npm install -g eslint
-
 ##### npm install -g prettier
-
 ##### npm install -g typescript
+##### https://blog.theodo.com/2019/08/empower-your-dev-environment-with-eslint-prettier-and-editorconfig-with-no-conflicts/
