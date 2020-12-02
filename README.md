@@ -25,3 +25,4 @@ TODO:
     zR — open all folds on current buffer
     zj — cursor is moved to next fold
     zk — cursor is moved to previous fold
+    Ctrl-x,Ctrl-f as path intellisense
