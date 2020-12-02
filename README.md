@@ -1,15 +1,15 @@
 # Vim
 I put here my **.vimrc** file and some **prerequirities** for **javascript** and **pyhton** and ....
 TODO:
-1. [:heavy_check_mark:] Javascript
-2. [ ] React
-3. [ ] Python
-4. [ ] Django
-5. [ ] C
-6. [ ] C++
-7. [ ] Rust
-8. [ ] GO
-9. [ ] CMake
+ - [x] Javascript
+ - [ ] React
+ - [ ] Python
+ - [ ] Django 
+ - [ ] C 
+ - [ ] C++
+ - [ ] Rust
+ - [ ] GO
+ - [ ] CMake
 
 ## Javascript prerequirities
 
@@ -18,4 +18,3 @@ TODO:
 ##### npm install -g prettier
 
 ##### npm install -g typescript
-
