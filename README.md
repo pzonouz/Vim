@@ -18,6 +18,9 @@ TODO:
 ##### npm install -g typescript:w
 ##### https://blog.theodo.com/2019/08/empower-your-dev-environment-with-eslint-prettier-and-editorconfig-with-no-conflicts/
 ##### https://github.com/ryanoasis/nerd-fonts/archive/v2.1.0.tar.gz
+      curl -L -O your_url
+      curl -L -O -C - your_url
+      
 ### Methods:
     zc — close the fold (where your cursor is positioned)
     zM —close all folds on current buffer
