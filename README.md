@@ -1,7 +1,7 @@
 # Vim
 I put here my **.vimrc** file and some **prerequirities** for **javascript** and **pyhton** and ....
 TODO:
-1. [x] Javascript
+1. [:heavy_check_mark:] Javascript
 2. [ ] React
 3. [ ] Python
 4. [ ] Django
@@ -11,8 +11,11 @@ TODO:
 8. [ ] GO
 9. [ ] CMake
 
-##Javascript prerequirities
-###npm install -g eslint
-###npm install -g prettier
-###npm install -g typescript
+## Javascript prerequirities
+
+##### npm install -g eslint
+
+##### npm install -g prettier
+
+##### npm install -g typescript
 
