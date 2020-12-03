@@ -13,6 +13,7 @@ TODO:
 
 ## Javascript 
 ### Prerequirities
+##### Font is : Monaco
 ##### npm install -g eslint
 ##### npm install -g prettier
 ##### npm install -g typescript:w
@@ -28,4 +29,5 @@ TODO:
     zR — open all folds on current buffer
     zj — cursor is moved to next fold
     zk — cursor is moved to previous fold
+    
     Ctrl-x,Ctrl-f as path intellisense
