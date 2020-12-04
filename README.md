@@ -13,7 +13,7 @@ TODO:
 
 ## Javascript 
 ### Prerequirities
-##### Font is : Monaco
+##### Font is : Menlo,Monaco
 ##### npm install -g eslint
 ##### npm install -g prettier
 ##### npm install -g typescript:w
